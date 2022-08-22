@@ -23,8 +23,7 @@ import { HamburgerIcon, CloseIcon } from "@chakra-ui/icons";
 
 type ColorModeSwitcherProps = Omit<IconButtonProps, "aria-label">;
 
-//import WalletButton from "./WalletButton";
-// import ButtonConnect from "./buttonConnect/index";
+import ConnectUNSD from "./unsConnect";
 
 export const ColorModeSwitcher = (props: ColorModeSwitcherProps) => {
   const { toggleColorMode } = useColorMode();
@@ -139,7 +138,7 @@ export default function withAction() {
           </HStack>
 
           <Flex alignItems={"center"}>
-            {/* <ButtonConnect /> */}
+            <ConnectUNSD />
 
             <Button
               textColor="black"

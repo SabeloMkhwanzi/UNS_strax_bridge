@@ -9,13 +9,11 @@ import {
   useColorModeValue,
 } from "@chakra-ui/react";
 
-// import ButtonConnect from "./buttonConnect/index";
+import ConnectUNSD from "./unsConnect";
 
 export default function SplitScreen() {
   const BodyBgColor = useColorModeValue("#181A60", "gray.600");
   const SubHeaderTextColor = useColorModeValue("white", "white");
-  const ButtonColorMode = useColorModeValue("#B4ECE3", "#B4ECE3");
-  const ButtonTextColor = useColorModeValue("#8479E1", "black");
   const HeaderTextColor = useColorModeValue("#1CD6CE", "#1CD6CE");
   const HeaderTextColo2 = useColorModeValue("#BA32D7", "#BA32D7");
 
@@ -67,7 +65,7 @@ export default function SplitScreen() {
             >
               <Link href={"bridgeApp"}>Try Bridge</Link>
             </Button>
-            {/* <ButtonConnect /> */}
+            <ConnectUNSD />
           </Stack>
         </Stack>
       </Flex>

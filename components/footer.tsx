@@ -9,8 +9,6 @@ import {
 
 export default function Footer() {
   const backgroundColor = useColorModeValue("#1CD6CE", "#243036");
-  const BoxBgColor = useColorModeValue("gray.200", "#243036");
-  const TextColor = useColorModeValue("#FC770A", "#FC770A");
   const TextColorMode = useColorModeValue("gray.500", "gray.400");
 
   return (
