@@ -4,7 +4,7 @@ import { Button, useColorModeValue } from "@chakra-ui/react";
 
 const uauth = new UAuth({
   clientID: "3c7e422e-60aa-41d4-8410-be6547c582a5",
-  redirectUri: "https://defilux.vercel.app/callback",
+  redirectUri: "https://uns-strax-bridge.vercel.app/",
 });
 
 function ConnectUNSD() {
