@@ -25,7 +25,7 @@
 
 ##### 1. Bridge Page
 
-![HomePage]()
+![BridgePage](https://github.com/SabeloMkhwanzi/UNS_strax_bridge/blob/main/public/straxbridgeBRIDGEPAG.jpg)
 
 #### Live website: [straxbridge]()
 
