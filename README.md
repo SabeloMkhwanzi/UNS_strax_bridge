@@ -21,7 +21,7 @@
 
 ##### 1. Home Page
 
-![HomePage]()
+![HomePage](https://github.com/SabeloMkhwanzi/UNS_strax_bridge/blob/main/public/straxbridgeHOMEPAGE.jpg)
 
 ##### 1. Bridge Page
 
