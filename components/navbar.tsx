@@ -203,7 +203,7 @@ export default function withAction() {
                 color="white"
                 href={"collection"}
               >
-                Doc
+                Docs
               </Link>
             </Stack>
           </Box>

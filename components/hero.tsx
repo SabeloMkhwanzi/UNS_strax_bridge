@@ -71,7 +71,7 @@ export default function SplitScreen() {
           </Stack>
         </Stack>
       </Flex>
-      <Flex flex={1}>
+      <Flex px={5} flex={1}>
         <Image
           alt={"cover-image"}
           borderTopRightRadius="10rem"
@@ -82,7 +82,6 @@ export default function SplitScreen() {
           height={700}
           maxW="100%"
           my="auto"
-          mx="auto"
           src={
             "https://file.coin98.com/insights/cross-chain-bridge-1631017481661.png"
           }
