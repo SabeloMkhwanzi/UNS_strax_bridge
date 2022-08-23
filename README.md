@@ -31,7 +31,7 @@
 
 #### GitHub Repository: [github.com/SabeloMkhwanazi](https://github.com/SabeloMkhwanzi/UNS_strax_bridge)
 
-#### Demo video: [video]()
+#### Demo video: [video](https://youtu.be/waBHtFF_l7Y)
 
 #### Project Start Date: Aug 8, 2022 - Aug 23, 2022
 
