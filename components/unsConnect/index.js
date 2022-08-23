@@ -3,8 +3,9 @@ import UAuth from "@uauth/js";
 import { Button, useColorModeValue } from "@chakra-ui/react";
 
 const uauth = new UAuth({
-  clientID: "3c7e422e-60aa-41d4-8410-be6547c582a5",
-  redirectUri: "https://uns-strax-bridge.vercel.app/",
+  clientID: "d2471270-e150-4b5d-a187-75da88dec6ca",
+  redirectUri: "https://uns-strax-bridge.vercel.app/bridgeApp",
+  scope: "openid wallet",
 });
 
 function ConnectUNSD() {
