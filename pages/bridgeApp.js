@@ -1,5 +1,7 @@
 import Head from "next/head";
 import { Box, useColorModeValue } from "@chakra-ui/react";
+
+import Bridgenavbar from "../components/bridgenavbar.tsx";
 import Navbar from "../components/navbar.tsx";
 import Bridge from "../components/bridge.tsx";
 
@@ -19,7 +21,7 @@ export default function BridgeApp() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Box bgColor={BoxBgColor} minHeight="100vh">
-        <Navbar />
+        <Bridgenavbar />
         <Bridge />
       </Box>
     </>
