@@ -39,7 +39,7 @@
 
 #### Discord - sabelo#2931
 
-### UD registered email account - sabelo.mailme@gmail.com
+#### UD registered email account - sabelo.mailme@gmail.com
 
 #### Running the app
 
