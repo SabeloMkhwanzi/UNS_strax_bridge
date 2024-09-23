@@ -29,8 +29,6 @@
 
 #### Live website: [straxbridge](https://uns-strax-bridge.vercel.app/)
 
-#### GitHub Repository: [github.com/SabeloMkhwanazi](https://github.com/SabeloMkhwanzi/UNS_strax_bridge)
-
 #### Running the app
 
 ### Getting Started
