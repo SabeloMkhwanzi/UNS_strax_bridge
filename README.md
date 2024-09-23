@@ -31,16 +31,6 @@
 
 #### GitHub Repository: [github.com/SabeloMkhwanazi](https://github.com/SabeloMkhwanzi/UNS_strax_bridge)
 
-#### Demo video: [video](https://youtu.be/waBHtFF_l7Y)
-
-#### Project Start Date: Aug 8, 2022 - Aug 23, 2022
-
-#### Wallet Address : 0xF975206a46b4eD9f5F008AF9813B19bf083d94eE
-
-#### Discord - sabelo#2931
-
-#### UD registered email account - sabelo.mailme@gmail.com
-
 #### Running the app
 
 ### Getting Started
